@@ -74,7 +74,7 @@ def get_credit_grants_for_user(user_id, token):
 # Split this file into a couple different methods
 # Not the absolute most granular but I think good for this exercise & timeline.
 def main():
-    token = '0e1bd8e8a1b692c7277fbb6c996dc90f336da19817e05b0f0c9d41cd57629218' # Your Token Here
+    token = '' # Your Token Here
     if not token:
         print("Please provide a valid token")
         return
