@@ -51,3 +51,7 @@ All the SQL is under the `2_sql_queries` directory.
 I added all of the relevant tables to Supabase to work through some of the queries. You will see a thread that I lack some of the busienss domain knowlege to the Metronome data structure. Some of the queries are rudimentary.
 
 Note, I also ran into quite some confusion, particualrly around timeframes requested, currency formatting (cents vs dollars) and consumption units. I documented them to the best of my ability in the files.
+
+Overall I did find this more challenging than expected, mostly as a result of not having an extremely strong grasp on the database structure. I found taking the semi-complete DDL as CSVs and getting into into a workable format took some more time than I had hoped. Of course jumping into any project with a < 1 day turn around is hard, and I am sure there are areas to improve. 
+
+Thank you again for the opportunity to interview with Metronome. I look forward to hearing from you and your team. 
